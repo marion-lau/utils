@@ -20,4 +20,5 @@
 	} else {
 		factory(global);
 	}
+	// test commit
 }(typeof window !== 'undefined' ? window : this, function(window, noGlobal) {});
